@@ -1,5 +1,7 @@
 config :
   -cisco
   -photoshop illustrator
-  vscode
+  -excel
+  -word
+  -
   
