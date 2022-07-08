@@ -1,4 +1,6 @@
 config :
   -cisco
   -photoshop illustrator
-  
+  -adobe
+  -pdf creator
+  -flash player
